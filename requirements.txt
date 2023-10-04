@@ -13,3 +13,4 @@ win10toast
 keyboard
 pygame
 wmi==1.5.1
+pyinstaller
