@@ -1,0 +1,15 @@
+opencv-python==4.6.0.66
+numpy
+mouse==0.7.1
+mediapipe==0.9.0
+PyAutoGUI==0.9.53
+autopy==4.0.0
+comtypes==1.1.14
+pycaw==20220416
+screen-brightness-control==0.18.0
+customtkinter==5.1.2
+tk
+win10toast
+keyboard
+pygame
+wmi==1.5.1
