@@ -5,8 +5,8 @@ __Installation__\
 *download python: conda install python==3.8 \
 *install requirements.txt using: pip install -r requirements.txt \
 *run this command to to create an exutable file game.exe: \
-*!pyinstaller --noconfirm --onefile --windowed  "code_projet_pfe/game.py" \\
-*run project: python interface.py 
+*!pyinstaller --noconfirm --onefile --windowed  "code_projet_pfe/game.py" \
+*run project: python interface.py \
 
 
 __Compatibility:__\
