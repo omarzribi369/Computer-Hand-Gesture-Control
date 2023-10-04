@@ -36,5 +36,4 @@ To use the program, simply download the source code or the executable file from 
 
 
 __Contact:__\
-If you'd like to contribute to this project, please don't hesitate to open pull requests or report any issues you encounter. Whether you're interested in fixing a bug, enhancing functionality, or adding new features, your assistance is greatly appreciated. You can reach out to me via email for further communication.
 Email: omarzribi2020@gmail.com
