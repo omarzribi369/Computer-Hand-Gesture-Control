@@ -1,4 +1,6 @@
 # Project
+![Uploading i2.png…]()
+![i1](https://github.com/omarzribi369/Computer-Hand-Gesture-Control/assets/123067230/ca6056ac-0d2f-4b89-b63c-8c3ac6ff780a)
 
 __Installation__\
 *open anaconda prompt \
